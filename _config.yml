@@ -1,9 +1,8 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "jsnomad"
+title                    : "Title"
 title_separator          : "-"
-subtitle                 : "immad"
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "lIIlllIIIIlI"
-description              : "mad"
-url                      : "https://lIIlllIIIIlInomad.github.io".
-baseurl                  : ""
+description              : "website."
+url                      : "https://lIIlllIIIIlInomad.github.io"
